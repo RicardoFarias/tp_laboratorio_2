@@ -1,0 +1,21 @@
+D:\sergio\TP1\entidades\bin\Debug\entidades.exe.config
+D:\sergio\TP1\entidades\bin\Debug\entidades.exe
+D:\sergio\TP1\entidades\bin\Debug\entidades.pdb
+D:\sergio\TP1\entidades\obj\Debug\entidades.csprojAssemblyReference.cache
+D:\sergio\TP1\entidades\obj\Debug\entidades.csproj.CoreCompileInputs.cache
+D:\sergio\TP1\entidades\obj\Debug\entidades.exe
+D:\sergio\TP1\entidades\obj\Debug\entidades.pdb
+C:\Users\richa\Desktop\Prog II\TP1\entidades\obj\Debug\entidades.csprojAssemblyReference.cache
+C:\Users\richa\Desktop\Prog II\TP1\entidades\obj\Debug\entidades.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\Prog II\TP1\entidades\obj\Debug\entidades.exe
+C:\Users\richa\Desktop\Prog II\TP1\entidades\obj\Debug\entidades.pdb
+C:\Users\richa\Desktop\Prog II\TP1\entidades\bin\Debug\entidades.exe.config
+C:\Users\richa\Desktop\Prog II\TP1\entidades\bin\Debug\entidades.exe
+C:\Users\richa\Desktop\Prog II\TP1\entidades\bin\Debug\entidades.pdb
+C:\Users\richa\Desktop\prog II 2020\Prog II\TP1\entidades\bin\Debug\entidades.exe.config
+C:\Users\richa\Desktop\prog II 2020\Prog II\TP1\entidades\bin\Debug\entidades.exe
+C:\Users\richa\Desktop\prog II 2020\Prog II\TP1\entidades\bin\Debug\entidades.pdb
+C:\Users\richa\Desktop\prog II 2020\Prog II\TP1\entidades\obj\Debug\entidades.csprojAssemblyReference.cache
+C:\Users\richa\Desktop\prog II 2020\Prog II\TP1\entidades\obj\Debug\entidades.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\prog II 2020\Prog II\TP1\entidades\obj\Debug\entidades.exe
+C:\Users\richa\Desktop\prog II 2020\Prog II\TP1\entidades\obj\Debug\entidades.pdb
